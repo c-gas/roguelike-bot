@@ -6,8 +6,8 @@
 					  / __|______/ _` |/ _` / __| 
 					 | (__      | (_| | (_| \__ \ 
 					  \___|      \__, |\__,_|___/ 
-	                                                / |           
-			                             |___/            
+	                                              / |           
+			                           |___/            
 				--------------------------------------------------
 
 	 The git repository for this project is hosted on https://www.github.com/c-gas/roguelike-bot
