@@ -11,6 +11,7 @@
 				--------------------------------------------------
 
 	 The git repository for this project is hosted on https://www.github.com/c-gas/roguelike-bot
+	 This project is based on the sleepy-discord library.
 
 												
 					         CONTRIBUTORS
